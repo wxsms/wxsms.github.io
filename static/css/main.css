@@ -22,7 +22,7 @@ html, body {
 .links {
     list-style: none;
     padding: 0;
-    margin-top: 20px;
+    margin: 20px 0 100px;
 }
 
 .links:after {
