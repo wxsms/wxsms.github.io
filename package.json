@@ -1,0 +1,12 @@
+{
+  "name": "wxsms.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wxsms/wxsms.github.io.git",
+  "author": "wxsm",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "normalize.css": "^7.0.0"
+  }
+}
